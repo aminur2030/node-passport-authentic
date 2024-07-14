@@ -1,0 +1,1 @@
+In this project, I have used session and cookies.Passport Authentication has been setup  through ejs and MongoDB has been connected to show and justify username and password.
